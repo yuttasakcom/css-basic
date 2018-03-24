@@ -38,4 +38,4 @@ CSS ย่อมาจาก Cascading Style Sheet ใช้กำหนดร�
 
 ## Selectors
 
-<img src="">
+<img src="https://github.com/yuttasakcom/css-manual/blob/master/img/selectors.png">
