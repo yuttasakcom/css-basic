@@ -3,12 +3,17 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
+* [Syntax](#syntax)
 * [Using Css](#using-css)
 * [Selectors](#selectors)
 
 ## Introduction
 
 CSS ย่อมาจาก Cascading Style Sheet ใช้กำหนดรูปแบบการแสดงผลของภาษา HTML เช่น รูปแบบตัวอักษร สี กำหนดการแสดงผลให้รองรับกับขนาดหน้าจอของอุปกรณ์ต่างๆ และ อื่นๆอีกมากมาย
+
+## Syntax
+
+<img src="https://github.com/yuttasakcom/css-manual/blob/master/img/syntax.png">
 
 ## Using Css
 
