@@ -69,9 +69,14 @@ CSS ย่อมาจาก Cascading Style Sheet ใช้กำหนดร�
 ### Adjacent Sibling
 
   <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/adjacent-sibling.png">
+
 ### General Sibling
+
   <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/general-sibling.png">
+
 ### Child
+
   <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/child.png">
+  
 ### Descendant
   <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/descendant.png">
