@@ -9,6 +9,10 @@
 * [Inheritance](#inheritance)
 * [Specifity](#specifity)
 * [Combinators](#combinators)
+  * [Adjacent Sibling](#adjacent-sibling)
+  * [General Sibling](#general-sibling)
+  * [Child](#child)
+  * [Descendant](#descendant)
 * Credit
   * https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass
 
@@ -62,11 +66,12 @@ CSS ย่อมาจาก Cascading Style Sheet ใช้กำหนดร�
 
 ## Combinators
 
-* Adjacent Sibling
+### Adjacent Sibling
+
   <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/adjacent-sibling.png">
-* General Sibling
+### General Sibling
   <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/general-sibling.png">
-* Child
+### Child
   <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/child.png">
-* Descendant
+### Descendant
   <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/descendant.png">
