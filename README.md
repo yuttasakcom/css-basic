@@ -7,6 +7,7 @@
 * [Using Css](#using-css)
 * [Selectors](#selectors)
 * [Inheritance](#inheritance)
+* [Specifity](#specifity)
 * Credit
   * https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass
 
@@ -53,3 +54,7 @@ CSS ย่อมาจาก Cascading Style Sheet ใช้กำหนดร�
 ## Inheritance
 
 <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/inheritance.png">
+
+## Specifity
+
+<img src="https://github.com/yuttasakcom/css-manual/blob/master/img/specifity.png">
