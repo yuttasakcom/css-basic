@@ -6,6 +6,7 @@
 * [Syntax](#syntax)
 * [Using Css](#using-css)
 * [Selectors](#selectors)
+* [Inheritance](#inheritance)
 
 ## Introduction
 
@@ -46,3 +47,7 @@ CSS ย่อมาจาก Cascading Style Sheet ใช้กำหนดร�
 <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/selectors.png">
 
 <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/selectors2.png">
+
+## Inheritance
+
+<img src="https://github.com/yuttasakcom/css-manual/blob/master/img/inheritance.png">
