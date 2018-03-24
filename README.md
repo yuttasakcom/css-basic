@@ -39,3 +39,5 @@ CSS ย่อมาจาก Cascading Style Sheet ใช้กำหนดร�
 ## Selectors
 
 <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/selectors.png">
+
+<img src="https://github.com/yuttasakcom/css-manual/blob/master/img/selectors2.png">
