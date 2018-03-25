@@ -15,6 +15,7 @@
   * [Descendant](#descendant)
 * Reference
   * [Css Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+  * [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * Credit
   * https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass
 
