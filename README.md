@@ -6,8 +6,8 @@
 * [Syntax](#syntax)
 * [Using Css](#using-css)
 * [Selectors](#selectors)
-* [Inheritance](#inheritance)
 * [Specifity](#specifity)
+* [Inheritance](#inheritance)
 * [Combinators](#combinators)
   * [Adjacent Sibling](#adjacent-sibling)
   * [General Sibling](#general-sibling)
@@ -56,13 +56,13 @@ CSS ย่อมาจาก Cascading Style Sheet ใช้กำหนดร�
 
 <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/selectors2.png">
 
-## Inheritance
-
-<img src="https://github.com/yuttasakcom/css-manual/blob/master/img/inheritance.png">
-
 ## Specifity
 
 <img src="https://github.com/yuttasakcom/css-manual/blob/master/img/specifity.png">
+
+## Inheritance
+
+<img src="https://github.com/yuttasakcom/css-manual/blob/master/img/inheritance.png">
 
 ## Combinators
 

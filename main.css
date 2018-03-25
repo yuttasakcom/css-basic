@@ -1,0 +1,16 @@
+h2 p {
+  color: mediumvioletred;
+}
+
+h2 ~ p {
+  color: orange;
+}
+
+/* overwrite */
+h2 + p {
+  color: green;
+}
+
+h2 > p {
+  color: red;
+}
